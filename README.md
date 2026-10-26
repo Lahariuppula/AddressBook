@@ -19,13 +19,13 @@ Programming Language: C
 Structures, Pointers, Functions, String Handling, File Handling
 
 ## Menu Options
-Create Contact
-Search Contact
-Edit Contact
-Delete Contact
-List All Contacts
-Save Contacts
-Exit
+- Create Contact
+- Search Contact
+- Edit Contact
+- Delete Contact
+- List All Contacts
+- Save Contacts
+- Exit
 
 ## Author
 Soundharya Lahari
